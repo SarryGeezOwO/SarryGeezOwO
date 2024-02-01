@@ -1,6 +1,6 @@
 <!-- README Code -->
 <h1>
-  $\Huge{\texttt{i'm \Huge{\color{rgb(50, 50, 255)}{CJAY}}}}$<br>
+  $\Huge{\texttt{I'm \Huge{\color{rgb(50, 50, 255)}{CJAY}}}}$<br>
   $\color{rgb(125, 125, 255)}{\texttt{A Java developer.}}$
 </h1>
 <br>
