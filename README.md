@@ -1,4 +1,9 @@
-<link rel="stylesheet" href=style.css">
-<div class="container">
-  <img class="header-img" src="https://static.vecteezy.com/system/resources/thumbnails/002/042/485/small/mountain-sunrise-with-pine-forest-vector.jpg">
-</div>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="container">
+    <img class="header-img" src="https://static.vecteezy.com/system/resources/thumbnails/002/042/485/small/mountain-sunrise-with-pine-forest-vector.jpg">
+  </div>
+</body>
