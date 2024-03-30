@@ -11,7 +11,7 @@ especially Team Fortress 2 and some variety of 2D Platformer games. I also draw 
 </p>
 
 <hr>
-<h3>My Socials :</h3>
+<h3>Look for me here :</h3>
 
 [![](https://img.shields.io/badge/FACEBOOK-darkblue?style=for-the-badge)](https://web.facebook.com/cjay.gidayawan)
 [![](https://img.shields.io/badge/TWITTER-blue?style=for-the-badge)](https://twitter.com/CrotchHom)
