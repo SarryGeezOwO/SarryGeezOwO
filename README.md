@@ -1,18 +1,57 @@
-<!-- README Code -->
-<h1>
-  I'm Cjay🧑‍💻<br>
-  A Java developer.
-</h1>
-<br>
-<p>I'm a senior highschool student pursuing mastery over the Java programming language.
-I currently am studying in STI, novaliches QC. I love doing challenging stuffs even though i'm still a begginer,
-i hope to learn various things even outside of programming. Aside from that, i also enjoy playing games,
-especially Team Fortress 2 and some variety of 2D Platformer games. I also draw whenever i'm bored.
-</p>
+<h1 align="center">Hi, im Cjay 🧑‍💻</h1>
 
-<hr>
-<h3>Look for me here :</h3>
+###
 
-[![](https://img.shields.io/badge/FACEBOOK-darkblue?style=for-the-badge)](https://web.facebook.com/cjay.gidayawan)
-[![](https://img.shields.io/badge/TWITTER-blue?style=for-the-badge)](https://twitter.com/CrotchHom)
-[![](https://img.shields.io/badge/NEOCITIES-yellow?style=for-the-badge)](https://sarrygeez.neocities.org)
+<p align="center">My socials</p>
+
+###
+
+<div align="center">
+  <a href="https://www.facebook.com/cjay.gidayawan/?_rdc=1&_rdr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://discord.com/channels/@suraymoo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/CrotchHom" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCNFtqDh61txSWbWMazlkPOA" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<p align="center">My used languages</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="340" src="https://i.scdn.co/image/ab67616d0000b273f8eb848f748e17c8b37ea19a"  />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarryGeezOwO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SarryGeezOwO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
