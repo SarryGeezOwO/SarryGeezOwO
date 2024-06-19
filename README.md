@@ -1,33 +1,21 @@
-<h1 align="center">Hi, im Cjay 🧑‍💻</h1>
+# Hi there, I'm Cjay Gidayawan👋👋
+An aspiring software developer, still a beginer but I'm looking forward to learn more about software development!
+I mostly create projects on my free time.
 
-###
+### A little details about me :
+<ul >
+  <li>🤐 I'm a very shy person.</li>
+  <li>🧠 I like to learn new things expecially about desktop applications.</li>
+  <li>🚀 I'm currently learning on Electron.</li>
+  <li>🔨 I love creating desktop applications.</li>
+</ul>
 
-<p align="center">My socials</p>
+[![Neocities](https://img.shields.io/badge/Website-303045?style=for-the-badge&logo=Website&logoColor=white)]([https://yourwebsite.com](https://sarrygeez.neocities.org))
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.facebook.com/cjay.gidayawan/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/CrotchHom))
 
-###
-
-<div align="center">
-  <a href="https://www.facebook.com/cjay.gidayawan/?_rdc=1&_rdr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://discord.com/channels/@suraymoo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/CrotchHom" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="65" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCNFtqDh61txSWbWMazlkPOA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<p align="center">My used languages</p>
-
-###
-
-<div align="center">
+### Here's the languages and Frameworks I commonly use :
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="csharp logo"  />
@@ -38,21 +26,11 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="32" alt="react logo"  />
 </div>
+</br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarryGeezOwO&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="340" src="https://i.scdn.co/image/ab67616d0000b273f8eb848f748e17c8b37ea19a"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarryGeezOwO&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+### Here's my status on github!
+<p>Im still a fresh user of github, I still lack a lot of knowledge about github and git, but I'm looking forward to learn! Im also scared of contributing to other devs work as I would surely make the project worse than good 💀💀💀</p>
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=SarryGeezOwO&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark"/>
