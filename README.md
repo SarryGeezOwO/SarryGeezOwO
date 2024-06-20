@@ -10,9 +10,9 @@ I mostly create projects on my free time.
   <li>🔨 I love creating desktop applications.</li>
 </ul>
 
-[![Neocities](https://img.shields.io/badge/Website-303045?style=for-the-badge&logo=Website&logoColor=white)]([https://yourwebsite.com](https://sarrygeez.neocities.org))
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.facebook.com/cjay.gidayawan/))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/CrotchHom))
+[![Neocities](https://img.shields.io/badge/Website-303045?style=for-the-badge&logo=Website&logoColor=white)](https://sarrygeez.neocities.org)
+[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.facebook.com/cjay.gidayawan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/CrotchHom)
 
 ### Here's the languages and Frameworks I commonly use :
 <div>
