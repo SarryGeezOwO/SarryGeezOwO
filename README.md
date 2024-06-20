@@ -1,12 +1,12 @@
 # Hi there, I'm Cjay Gidayawan👋👋
 An aspiring software developer, still a beginer but I'm looking forward to learn more about software development!
-I mostly create projects on my free time.
+I mostly create projects on my free time. I want to be an expert to backend someday😀😀
 
 ### A little details about me :
 <ul >
   <li>🤐 I'm a very shy person.</li>
   <li>🧠 I like to learn new things expecially about desktop applications.</li>
-  <li>🚀 I'm currently learning on Electron.</li>
+  <li>🚀 I'm currently learning Electron.</li>
   <li>🔨 I love creating desktop applications.</li>
 </ul>
 
