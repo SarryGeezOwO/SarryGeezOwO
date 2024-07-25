@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e64d9dd0-daea-475d-91b6-8a914e3732df" alt="image">
+</p>
+
 # Hi there, I'm Cjay Gidayawan👋👋
 An aspiring software developer, still a beginer but I'm looking forward to learn more about software development!
 I mostly create projects on my free time. I want to be an expert to backend someday😀😀
