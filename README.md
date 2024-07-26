@@ -10,7 +10,7 @@ I mostly create projects on my free time. I want to be an expert to backend some
 <ul >
   <li>🤐 I'm a very shy person.</li>
   <li>🧠 I like to learn new things expecially about desktop applications.</li>
-  <li>🚀 I'm currently learning C++.</li>
+  <li>🚀 I'm currently learning Go.</li>
   <li>🔨 I love creating desktop applications.</li>
 </ul>
 
