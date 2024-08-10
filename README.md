@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/e64d9dd0-daea-475d-91b6-8a914e3732df" alt="image">
 </p>
 
-# Hi there, I'm Cjay Gidayawan👋👋
+# Hi there, I'm Cjay 👋👋
 An aspiring software developer, still a beginer but I'm looking forward to learn more about software development!
 I mostly create projects on my free time. I want to be an expert to backend someday😀😀
 
@@ -15,7 +15,6 @@ I mostly create projects on my free time. I want to be an expert to backend some
 </ul>
 
 [![Neocities](https://img.shields.io/badge/Website-303045?style=for-the-badge&logo=Website&logoColor=white)](https://sarrygeez.neocities.org)
-[![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/cjay.gidayawan/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CrotchHom)
 
 ### Here's the languages and Frameworks I commonly use :
