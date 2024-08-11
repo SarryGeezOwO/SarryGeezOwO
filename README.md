@@ -29,7 +29,7 @@ I mostly create projects on my free time. I want to be an expert to backend some
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
   <img width="20" />
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="32" alt="react logo"  /> !-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="Go logo"  />
 </div>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarryGeezOwO&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
