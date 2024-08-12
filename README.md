@@ -17,6 +17,8 @@ I mostly create projects on my free time. I want to be an expert to backend some
 [![Neocities](https://img.shields.io/badge/Website-303045?style=for-the-badge&logo=Website&logoColor=white)](https://sarrygeez.neocities.org)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CrotchHom)
 
+<hr>
+
 ### Languages:
 | Java         | Go               | C#           |
 |:------------:|:---------------:|:-------------:|
@@ -32,6 +34,7 @@ I mostly create projects on my free time. I want to be an expert to backend some
 |:----------:|:-----:|:-----:|:-----:| 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="SpringBoot"/> | <img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" height="60" alt="JavaFX"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="Java Swing"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" height="60" alt="JUnit"/>
 
+<hr>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarryGeezOwO&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=10&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 
