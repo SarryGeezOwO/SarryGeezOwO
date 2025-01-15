@@ -6,6 +6,8 @@
 An aspiring software developer, still a beginer but I'm looking forward to learn more about software development!
 I mostly create projects on my free time. I want to be an expert to backend someday😀😀
 
+![Visitors](https://komarev.com/ghpvc/?username=SarryGeezOwO&color=orange)
+
 > Also welcome to my Github profile! Where all my dead projects rest
 
 ### A little details about me :
