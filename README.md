@@ -6,15 +6,13 @@
 An aspiring software developer, still a beginer but I'm looking forward to learn more about software development!
 I mostly create projects on my free time. I want to be an expert to backend someday😀😀
 
-![Visitors](https://komarev.com/ghpvc/?username=SarryGeezOwO&color=orange)
-
 > Also welcome to my Github profile! Where all my dead projects rest
 
 ### A little details about me :
 <ul >
   <li>🤐 I'm a very shy person.</li>
   <li>🧠 I like to learn new things expecially about desktop applications.</li>
-  <li>🚀 I'm currently learning Go.</li>
+  <li>🚀 I'm currently learning C++.</li>
   <li>🔨 I love creating desktop applications.</li>
 </ul>
 
@@ -24,9 +22,9 @@ I mostly create projects on my free time. I want to be an expert to backend some
 <hr>
 
 ### Languages:
-| Java         | Go               | C#           |
+| Java         | C++               | C#           |
 |:------------:|:---------------:|:-------------:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="60" alt="Go logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  /> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original-wordmark.svg" alt="C++ Logo" height="60">| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  /> |
 
 ### Database:
 | SQLite       | MongoDB   |
@@ -34,9 +32,9 @@ I mostly create projects on my free time. I want to be an expert to backend some
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" alt="SQLite"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" alt="MongoDB"/> |
 
 ### Frameworks and Libraries:
-| Springboot | JavaFX| Swing | JUnit |
-|:----------:|:-----:|:-----:|:-----:| 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="SpringBoot"/> | <img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" height="60" alt="JavaFX"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="Java Swing"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" height="60" alt="JUnit"/>
+| Springboot | Swing | JUnit |
+|:----------:|:-----:|:-----:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="SpringBoot"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="Java Swing"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" height="60" alt="JUnit"/>
 
 <hr>
 </br>
