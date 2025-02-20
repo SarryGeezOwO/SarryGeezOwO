@@ -4,7 +4,7 @@
 
 # Hi there, I'm Cjay 👋👋
 An aspiring software developer, still a beginer but I'm looking forward to learn more about software development!
-I mostly create projects on my free time. I want to be an expert to backend someday😀😀
+I mostly create projects on my free time. I want to be an expert to backend someday😀😀 I LOVE GAME ENGINES1!!11!
 
 > Also welcome to my Github profile! Where all my dead projects rest
 
@@ -32,9 +32,9 @@ I mostly create projects on my free time. I want to be an expert to backend some
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="60" alt="SQLite"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="60" alt="MongoDB"/> |
 
 ### Frameworks and Libraries:
-| Springboot | Swing | JUnit |
-|:----------:|:-----:|:-----:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="SpringBoot"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="Java Swing"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" height="60" alt="JUnit"/>
+| Springboot | Swing | JUnit | SDL3  |
+|:----------:|:-----:|:-----:|:-----:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="SpringBoot"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60" alt="Java Swing"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" height="60" alt="JUnit"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="60" alt="SDL3"/>
 
 <hr>
 </br>
