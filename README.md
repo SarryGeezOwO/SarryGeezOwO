@@ -8,6 +8,10 @@
     <img height="30" src="https://img.shields.io/badge/Bluesky-3d84ff?style=for-the-badge&logo=Bluesky&logoColor=white"/>
   </a>
 
+  <a href="https://discordapp.com/users/731537466569523253">
+    <img height="30" src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>
+  </a>
+
   <a href="https://x.com/Sarry_giz">
     <img height="30" src="https://img.shields.io/badge/Twitter-792dd6?style=for-the-badge&logo=X&logoColor=white"/>
   </a>
