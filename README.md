@@ -24,42 +24,19 @@
 
 .PHONY: all info skills goals facts contact
 
-all: info skills goals facts contact
+all: info skills
 
 info:
 	@echo "👋 Hey there, I'm Cjay!"
 	@echo "Welcome to my Github profile!"
-	@echo "Mission: Build stuff that sometimes works(not really)"
+	@echo "I aim to be a Game Engine developer someday."
 
 skills:
 	@echo "🛠️ Skills & Tools:"
 	@echo "  ⯈ Languages  : Java, C#, C++"
 	@echo "  ⯈ Frameworks : SDL3, ImGui, OpenGL, JSwing"
 	@echo "  ⯈ IDEs       : VSCode, IntelliJ, Unity, Game Maker Studio"
-	@echo "  ⯈ Hobbies    : Game dev, Desktop Apps, Music, Drawing"
-
-goals:
-	@echo "🎯 Current Goals:"
-	@echo "  ⯈ Learning     : OpenGL, and Geometry Math"
-	@echo "  ⯈ Projects     : Working on a custom 2D game engine"
-	@echo "  ⯈ Dream        : Have an application that actually has users 😭😭"
-
-facts:
-	@echo "🐾 Fun Facts:"
-	@echo "  - I love drawing Chibis."
-	@echo "  - I am Filipino. 😞"
-	@echo "  - Abandoned a lot of projects because of skill issue."
-	@echo "  - Squeaky rubber duck is my friend."
-	@echo "  - Favorite pet: Dog"
-
-contact:
-	@echo "📫 Contact:"
-	@echo "  - Drop a ⭐ if you like anything here"
-	@echo "  - Message me on Twitter, Discord, or Bluesky"
-
-# Reminder: Clean up your workspace, not your dreams.
-clean:
-	@echo "🧹 Cleaning up the mess I made... emotionally and otherwise."
+	@echo "  ⯈ Hobbies    : Game dev, Music, Drawing"
 ```
 
 <h3 align="center">🛠Tools and Languages I used:</h3>
