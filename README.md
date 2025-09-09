@@ -67,8 +67,7 @@ skills:
 </tr>
 </table>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarryGeezOwO&locale=en&hide_title=false&layout=compact&card_width=375&langs_count=6&theme=dark&hide_border=false&order=2"  height="175" alt="languages graph"  />
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=SarryGeezOwO&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark"/>
+<img height="255" src="https://github-readme-stats.vercel.app/api?username=SarryGeezOwO&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=dark"/>
 </div>
 <hr>
 
